@@ -1,8 +1,9 @@
 # Data
 
 Use this directory for datasets.
+https://archive.ics.uci.edu/dataset/461/drug+review+dataset+druglib+com
 
-The repository includes only synthetic/demo records. Replace them with a legally usable research dataset.
+The repository includes dataset records. Replace them with more research dataset.
 
 Recommended schema:
 
