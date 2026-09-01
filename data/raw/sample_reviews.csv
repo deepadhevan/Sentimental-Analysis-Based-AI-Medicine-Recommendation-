@@ -1,0 +1,8 @@
+text,aspect,sentiment,medicine
+"The medicine reduced my headache quickly and I felt better","effectiveness","positive","Medicine_A"
+"The medicine helped my pain but caused mild nausea","effectiveness","positive","Medicine_A"
+"The medicine caused nausea after taking it","side_effect","negative","Medicine_A"
+"I did not notice any improvement with this medicine","effectiveness","negative","Medicine_B"
+"The treatment was acceptable and had no major effect","effectiveness","neutral","Medicine_B"
+"The medicine worked well and had no side effects","effectiveness","positive","Medicine_C"
+"The tablets made me feel sleepy","side_effect","negative","Medicine_C"
